@@ -1,0 +1,8 @@
+
+#main{margin:0 20px 20px;padding:0 15px 15px 0;}
+
+table#tablesorter-demo {margin: 10px 0 0 0;}
+table#options *{font-size:small;}
+p.tip em {padding: 2px; background-color: #6cf; color: #FFF;}
+p.tip.update em {background-color: #FF0000;}
+div.digg {float: right;}
